@@ -5,6 +5,12 @@ I am a Web Developer<b>🚀</h3>
 I have worked with...
 <br>
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KoreyMoffett](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 * HTML
 * CSS
 * JavaScript
