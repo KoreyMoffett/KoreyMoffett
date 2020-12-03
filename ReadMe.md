@@ -2,9 +2,9 @@
 <h3 align="center"><b>
 I am a Web Developer<b>🚀</h3>
   <li>
-    - 🔭 I’m currently focused on JavaScript</li>
+     🔭 I’m currently focused on JavaScript</li>
   <li>
-    - ⚡ Fun fact: If you like CSS you are a psychopath</li>
+     ⚡ Fun fact: If you like CSS you are a psychopath</li>
     
 <hr>
 ![](https://github.com/KoreyMoffett/github-stats/blob/master/generated/overview.svg)
