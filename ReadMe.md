@@ -1,11 +1,14 @@
 # Hello I'm Korey
-<p align="center">
-I am a Web Developer</p>
+<p align="center"><b>
+I am a Web Developer<b></p>
+<hr>
 I have worked with...
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Ruby
-- Python
+<br>
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Ruby
+* Python
 
