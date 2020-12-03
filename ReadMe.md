@@ -2,7 +2,6 @@
 <h3 align="center"><b>
 I am a Web Developer<b>🚀</h3>
 <hr>
-[![Korey's github stats](https://github-readme-stats.vercel.app/api?username=KoreyMoffett)](https://github.com/anuraghazra/github-readme-stats)
 I have worked with...
 <br>
 * HTML
