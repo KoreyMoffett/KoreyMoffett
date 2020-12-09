@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, My name is Korey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center"><b>
-I am a Web Developer<b>🚀</h3>
+I am an aspiring Web Developer<b>🚀</h3>
   <li>
      🔭 I’m currently focused on learning JavaScript</li>
   <li>
