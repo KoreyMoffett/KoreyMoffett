@@ -2,7 +2,7 @@
 <h3 align="center"><b>
 I am an aspiring Web Developer<b>🚀</h3>
   <li>
-     🔭 I’m currently focused on learning JavaScript</li>
+     🔭 I’m currently focused on learning PHP and SQL</li>
   <li>
      ⚡ Fun fact: If you like CSS you are a psychopath</li>
 <hr>
