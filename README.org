@@ -5,7 +5,7 @@
 + I'm a Free Software supporter and advocate
 + Linux desktop user and lover
 
-* My Repos are mostly are...
+* My Repos mostly are...
 Mostly personal files such as dotfiles or wallpaper, I do hope to maybe have something of use to people eventually
 
 ** Things of interest
