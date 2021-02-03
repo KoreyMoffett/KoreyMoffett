@@ -10,6 +10,8 @@ Mostly personal files such as dotfiles or wallpaper, I do hope to maybe have som
 
 ** Things of interest
 
-[[https://koreymoffett.com/rss.xml][My Website
-RSS Feed]]
-[[https://fostodon.org/web/accounts/290745][Follow me on Mastodon]]
+[[https://koreymoffett.com][Website]]
+
+[[https://koreymoffett/com/rss.xml][RSS Feed]]
+
+[[https://fosstodon.org/web/accounts/290745][Follow me on Mastodon]]
