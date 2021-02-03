@@ -1,0 +1,15 @@
+#+TITLE: Hello, My name is Korey
+
+* About Me
++ I'm an aspiring developer, I like development as a whole so anything would be fine with me
++ I'm a Free Software supporter and advocate
++ Linux desktop user and lover
+
+* My Repos are mostly are...
+Mostly personal files such as dotfiles or wallpaper, I do hope to maybe have something of use to people eventually
+
+** Things of interest
+
+[[https://koreymoffett.com/rss.xml][My Website
+RSS Feed]]
+[[https://fostodon.org/web/accounts/290745][Follow me on Mastodon]]
